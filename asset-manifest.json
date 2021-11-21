@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PlanEstudioReact/static/css/main.d6ce738a.chunk.css",
+    "main.js": "/PlanEstudioReact/static/js/main.789642eb.chunk.js",
+    "main.js.map": "/PlanEstudioReact/static/js/main.789642eb.chunk.js.map",
+    "runtime-main.js": "/PlanEstudioReact/static/js/runtime-main.087b4718.js",
+    "runtime-main.js.map": "/PlanEstudioReact/static/js/runtime-main.087b4718.js.map",
+    "static/js/2.0ff55ce4.chunk.js": "/PlanEstudioReact/static/js/2.0ff55ce4.chunk.js",
+    "static/js/2.0ff55ce4.chunk.js.map": "/PlanEstudioReact/static/js/2.0ff55ce4.chunk.js.map",
+    "index.html": "/PlanEstudioReact/index.html",
+    "static/css/main.d6ce738a.chunk.css.map": "/PlanEstudioReact/static/css/main.d6ce738a.chunk.css.map",
+    "static/js/2.0ff55ce4.chunk.js.LICENSE.txt": "/PlanEstudioReact/static/js/2.0ff55ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.087b4718.js",
+    "static/js/2.0ff55ce4.chunk.js",
+    "static/css/main.d6ce738a.chunk.css",
+    "static/js/main.789642eb.chunk.js"
+  ]
+}
